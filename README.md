@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: kaua
+Matricula: 896250
 
 ## Tela de inspeção com navegador
-
+![imagem](Captura de tela 2025-03-10 123652.png)
 
 ## Tela de projeto no Replit
 
