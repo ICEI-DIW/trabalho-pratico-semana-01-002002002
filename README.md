@@ -7,7 +7,6 @@ Nome: kaua
 Matricula: 896250
 
 ## Tela de inspeção com navegador
-![alt text](<Captura de tela 2025-03-10 123329.png>)
-
+![alt text](<Captura de tela 2025-03-10 121636.png>)
 ## Tela de projeto no Replit
 ![alt text](replit.png)
